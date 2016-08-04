@@ -1,0 +1,75 @@
+_repo: The-Papers-And-Writings-Of-Abraham-Lincoln-Complete_3253
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Schurz, Carl
+    alias: Schurz, C. (Carl)
+    birthdate: 1829
+    deathdate: 1906
+    gutenberg_agent_id: '2909'
+    url: http://www.gutenberg.org/2009/agents/2909
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Schurz
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - Roosevelt, Teddy
+    - United States President (1901-1909)
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+  - agent_name: Choate, Joseph Hodges
+    alias: Choate, Joseph H.
+    birthdate: 1832
+    deathdate: 1917
+    gutenberg_agent_id: '6479'
+    url: http://www.gutenberg.org/2009/agents/6479
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
+covers:
+- cover_type: archival
+  image_path: 3253/3253-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+  editor:
+    agent_name: Lapsley, Arthur Brooks
+    gutenberg_agent_id: '26579'
+    url: http://www.gutenberg.org/2009/agents/26579
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3253'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln-Douglas Debates, Ill., 1858'
+- !lcsh 'United States -- Politics and government -- 1841-1845'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Correspondence'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'United States -- Politics and government -- 1845-1861'
+- !lcsh 'United States -- Politics and government -- 1837-1841'
+- !lcc 'E456'
+- !lcsh 'United States -- Politics and government -- 1829-1837'
+- !lcsh 'Illinois -- Politics and government -- To 1865'
+- GITenberg
+tableOfContents: Introduction by Theodore Roosevelt -- Editor's Preface by Arthur
+  Brooks Lapsley -- Abraham Lincoln. An Essay by Carl Shurz -- Abraham Lincoln. Memorial
+  Address by Joseph H. Choate -- The writings of Abraham Lincoln.
+title: The Papers And Writings Of Abraham Lincoln, Complete
+url: http://www.gutenberg.org/ebooks/3253
