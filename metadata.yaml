@@ -1,5 +1,5 @@
 _repo: The-Papers-And-Writings-Of-Abraham-Lincoln-Complete_3253
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Schurz, Carl
@@ -27,9 +27,7 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Hodges_Choate
 covers:
 - cover_type: archival
-  image_path: 3253/3253-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3253-h/files/3253/3253-h/images/cover.jpg
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -46,6 +44,8 @@ creator:
     gutenberg_agent_id: '26579'
     url: http://www.gutenberg.org/2009/agents/26579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3253#The-Papers-And-Writings-Of-Abraham-Lincoln-Complete
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
